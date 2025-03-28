@@ -1,5 +1,7 @@
-# 💫 About Me:
-Hii 👋, I'm Sachin Singh<br>A passionate Full Stack Python Web Developer 
+<img src="Software Engineer.mp4" alt="loading" style="width: 1000px; height: 350px;">
+<h1 align="center">Hi 👋, I'm Sachin Singh</h1>
+<h3 align="center">A passionate Full Stack Python Web Developer 👇</h3>
+
 
 
 ## 🌐 Socials:
